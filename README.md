@@ -1,4 +1,4 @@
-# Made Using Redux Hooks
+# Made Using Redux State Management System
 To run the project:
 
 1. Clone this repo
